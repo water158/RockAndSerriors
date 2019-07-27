@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <UserAchieve>
+        <AchieveDifficulty id="3">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="4">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="5">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="6">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="7">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="8">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+        <AchieveDifficulty id="9">
+            <AchieveType type="Paper" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Scissor" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+            <AchieveType type="Rock" times="0">
+                <AchieveRank rank="1" step="0" date="" />
+                <AchieveRank rank="2" step="0" date="" />
+                <AchieveRank rank="3" step="0" date="" />
+            </AchieveType>
+        </AchieveDifficulty>
+    </UserAchieve>
+    <UserStatus>
+        <First>3</First>
+        <SelectDiff>3</SelectDiff>
+    </UserStatus>
+    <UserSetting>
+        <Config tip="Sound">1</Config>
+        <Config tip="Music">1</Config>
+    </UserSetting>
+</root>

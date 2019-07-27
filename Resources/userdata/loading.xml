@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="abouttitle">关于我们</string>
+	<string name="about">感谢您下载我们的游戏，我们将持续更新游戏版本，欢迎吐槽。
+邮箱：
+rongfutiancheng@163.com
+QQ群：245581825
+摩天轮工作室版权所有 Copyright ©2014 MTL All Rights Reserved</string>
+	<string name="help">感谢您下载我们的游戏，我们将持续更新游戏版本，欢迎吐槽。
+邮箱：
+rongfutiancheng@163.com
+QQ群：245581825
+摩天轮工作室版权所有 Copyright ©2014 MTL All Rights Reserved</string>
+	<string name="menu_sure">确定</string>
+	<string name="label_win">恭喜您获得了胜利！</string>
+	<string name="menu_start">开始</string>
+	<string name="menu_config">菜单</string>
+	<string name="label_sound">声音</string>
+	<string name="label_music">音乐</string>
+	<string name="menu_help">帮  助</string>
+	<string name="menu_about">关  于</string>
+	<string name="menu_backgame">返回游戏</string>
+	<string name="menu_back">返回</string>
+	<string name="menu_share">分享</string>
+</resources>
